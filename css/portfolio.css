@@ -1,7 +1,7 @@
 body{
     transform: translateX(2%);
     background-color:black;
-overflow: hidden;
+/* overflow: hidden; */
 
 }
 h4{
@@ -83,8 +83,8 @@ a{
     display:flex;
 }
 .co{
-    width:25%;
-    transform:translateY(-216%) translateX(148%);
+    width:20%;
+    transform:translateY(-216%) translateX(236%);
 
 
 }
