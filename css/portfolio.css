@@ -1,0 +1,90 @@
+body{
+    transform: translateX(2%);
+    background-color:black;
+overflow: hidden;
+
+}
+h4{
+    display: flex;
+    color: rgb(101 245 253);
+    /* justify-content:center; */
+    transform:translateY(90%);
+    width:45%;
+}
+.projects{
+    background-color: rgb(0, 0, 0);
+    background-size: cover;
+    display:flex;
+    justify-content: center; 
+   border-radius:100px ;
+    box-shadow:0 0 15px #00ffff,  0 0 30px rgb(0, 255, 0);
+    color:rgba(255,255,255);
+    text-decoration:none;
+    width:100px;
+    text-transform:uppercase;
+    transform:translateY(77%)
+}
+/* .communication{
+    background-color: rgb(0, 0, 0);
+    background-size: cover;
+    display:flex;
+    justify-content: center; 
+   border-radius:100px ;
+    box-shadow:0 0 15px #00ffff,  0 0 30px rgb(0, 255, 0);
+    color:rgba(255,255,255);
+    text-decoration:none;
+    width:115px;
+    transform:translateX(90%) translateY(-100%);
+    
+} */
+h1{
+    display:flex;
+    color:rgba(255,255,255);
+    transform:translateY(220%);
+    text-transform:capitalize;
+
+}
+span{
+    display:flex;
+    transform:translateX(9%);
+    color: rgb(147 249 255);
+}
+
+
+ul{
+    list-style:none;
+    transform:translateY(111%) translateX(-3%);
+    color:rgba(255,255,255) ;
+}
+
+img{
+    display:flex; 
+   width:25% ;
+   transform: translateY(-25%) translateX(273%);
+   box-shadow:0 0 15px #00ffff,  0 0 30px #0fff;
+
+
+}
+a{
+    display:flex;
+    text-decoration:none;
+    text-transform:capitalize;
+    background-color: rgb(0, 0, 0);
+    background-size: cover;
+    justify-content: center; 
+    border-radius:100px ;
+    box-shadow:0 0 15px #00ffff,  0 0 30px rgb(0, 255, 0);
+    color:rgba(255,255,255);
+    width:100px;
+    text-transform:uppercase;
+    
+}
+.comm{
+    display:flex;
+}
+.co{
+    width:20%;
+    transform:translateY(-216%) translateX(236%);
+
+
+}
