@@ -112,3 +112,13 @@ img{
 
 
 }
+.gi{
+    display:flex;
+    color:rgba(255,255,255);
+     font-size: 40px;
+    margin:0% 1%;
+    list-style:none;
+       width:45px;
+        height: 45px;
+
+}
