@@ -1,4 +1,54 @@
 body{
 background-color:black;
+    transform: translateX(1%);
 
+}
+ul{
+     list-style:none;
+     
+}
+.h{
+    color:rgba(255,255,255);
+    display:flex;
+    text-decoration:none;
+    font-size:40px;
+    background-color: rgb(149 140 149);
+    width:47px;
+    height:43px;
+ border-radius:10px ;
+
+}
+a
+{
+       text-decoration:none;
+       color:rgba(255,255,255);
+}
+.mm{
+width:49%;
+height:500px;
+}
+.ss{
+    width:49%;
+    height:500px;
+}
+.m{
+    display:flex;
+    font-size:30px;
+    transform:translateX(70%);
+    /* width:70px; */
+}
+.s{
+    display:flex;
+    font-size:30px;
+    /* width:70px; */
+    transform:translateX(20%) translateY(100%);
+}
+h1{
+    color:rgba(255,255,255)
+}
+span{
+    color: rgb(147 249 255);
+}
+h3{
+    color: rgb(101 245 253);
 }
