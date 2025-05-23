@@ -12,26 +12,27 @@ h4{
     width:45%;
 }
 .projects{
-    background-color: rgb(0, 0, 0);
+    /* background-color: rgb(0, 0, 0);
     background-size: cover;
-    display:flex;
     justify-content: center; 
-   border-radius:100px ;
+    border-radius:100px ;
     box-shadow:0 0 15px #00ffff,  0 0 30px rgb(0, 255, 0);
-    color:rgba(255,255,255);
     text-decoration:none;
     width:100px;
-    text-transform:uppercase;
-    transform:translateY(77%)
+    text-transform:uppercase; */
+    display:flex;
+    transform:translateY(13%);
+    color:rgba(255,255,255);
+    font-size: 40px;
 }
 /* .communication{
     background-color: rgb(0, 0, 0);
     background-size: cover;
-    display:flex;
     justify-content: center; 
-   border-radius:100px ;
+    border-radius:100px ;
     box-shadow:0 0 15px #00ffff,  0 0 30px rgb(0, 255, 0);
     color:rgba(255,255,255);
+    display:flex;
     text-decoration:none;
     width:115px;
     transform:translateX(90%) translateY(-100%);
@@ -65,26 +66,49 @@ img{
 
 
 }
-a{
+.fa{
     display:flex;
     text-decoration:none;
-    text-transform:capitalize;
-    background-color: rgb(0, 0, 0);
+   
+    color:rgba(255,255,255);
     background-size: cover;
     justify-content: center; 
-    border-radius:100px ;
-    box-shadow:0 0 15px #00ffff,  0 0 30px rgb(0, 255, 0);
+    /*  box-shadow:0 0 15pxrgb(255, 255, 255),  0 0 30px rgb(255, 255, 255);
+    text-transform:capitalize;
+    text-transform:uppercase; */
     color:rgba(255,255,255);
-    width:100px;
-    text-transform:uppercase;
     
 }
 .comm{
     display:flex;
 }
 .co{
-    width:20%;
-    transform:translateY(-216%) translateX(236%);
+    font-size: 40px;
+    margin:0% 1%;
+    transform: translateY(-228%) translateX(123%);
+    
+    
+}
+.fac{
+    background-color: rgb(0, 102, 255);
+ border-radius:15px ;
+    width:45px;
+        height: 45px;
+}
+
+.wh{
+    background-color: rgb(8, 253, 0);
+ border-radius:15px ;
+    width:45px;
+        height: 45px;
+}
+
+.ti{
+    background-color: rgb(11, 12, 12);
+ border-radius:15px ;
+    width:45px;
+        height: 45px;
+   box-shadow:0 0 0.5px rgb(255, 255, 255),  0 0 0.5px rgba(255,255,255);
 
 
 }
